@@ -1,0 +1,2 @@
+# premium-knife-tang-001-knife-tang-forging-full-hidd
+Tired of losing track of your tang dimensions, heat treat cycles, or hidden tang alignment mid-forge? Stop juggling sticky notes and scattered spreadsheet tabs.  The Knife Tang Forging &amp; Full Hidden Craft Lab is a dedicated Notion system that organizes every phase of tang forging—from billet selection to final hidden tang seating. It replaces guess
